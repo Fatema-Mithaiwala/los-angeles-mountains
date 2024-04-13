@@ -1,0 +1,113 @@
+.sec1
+{
+    
+    background-image: url("1.jpg");
+    width : auto;
+    height: 80vh;
+    background-size: cover;
+    
+}
+.navbar2{
+    float: right;
+    margin-right: 20px;
+    margin-left: 500px;
+    position : absolute;
+    top: 1rem;
+    right:16%;
+}
+
+.logo{
+    width: 6rem;
+    height:2rem;
+    border-radius: 100rem;   
+    position: absolute;
+    top: 1rem;
+    left:16%
+    margin-top : 0rem;
+    padding : 0px 0px;
+    margin-left:8rem;
+    
+}
+.navbar2{
+    margin-left:1rem;
+}
+body{
+    background-image: url("1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.navbar3{
+    float: right;
+    margin-right: 20px;
+    margin-left: 500px;
+    position : absolute;
+    top: 56rem;
+    right:16%;
+}
+.logo3{
+    width: 6rem;
+    height:2rem;
+    border-radius: 100rem;   
+    position: absolute;
+    top: 1rem;
+    left:20%
+    margin-top : 0rem;
+    padding : 0px 0px;
+    margin-left:8rem;
+}
+
+.navbar-link2{
+    color: white;
+    display: inline-block;
+    justify-content: space-evenly;
+    margin:  0 3rem;
+}
+
+.navbar-link3{
+    color: black;
+    display: inline-block;
+    justify-content: space-evenly;
+    margin:  0 3rem;
+}
+.sticky-nav {
+    height:6.7rem;
+    width: 100%;
+    position: relative;
+    display: flex;
+   
+}
+
+
+
+.sticky-nav {
+    height: 6.7rem;
+    width: 100%;
+    position: relative;
+    display: flex;
+  }
+  
+  .logo2 {
+    position: absolute;
+    top: 1rem;
+    left: 20%;
+    transition: transform 0.5s;
+  }
+  
+  .navbar-link3 {
+    display: inline-block;
+    justify-content: space-evenly;
+    margin: 0 3rem;
+    transition: transform 0.5s;
+    border-bottom: 1px solid var(--primary-color);
+    text-decoration: none;
+    letter-spacing: 0.1rem;
+  }
+  
+  .navbar3 {
+    position: absolute;
+    top: 2rem;
+    right: 16%;
+  }
